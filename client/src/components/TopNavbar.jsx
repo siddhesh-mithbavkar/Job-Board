@@ -7,7 +7,7 @@ import { faMessage, faBell, faUser } from '@fortawesome/free-solid-svg-icons';
 const TopNavbar = () => {
     return (
         <>
-            <Navbar expand="md" className="bg-body-tertiary">
+            <Navbar expand="md" className="bg-body-tertiary px-md-4">
                 <Container fluid>
                     <Navbar.Brand href="#home">Job Board</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
