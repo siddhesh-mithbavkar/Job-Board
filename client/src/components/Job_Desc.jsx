@@ -1,0 +1,56 @@
+import React from 'react'
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+
+
+
+const Job_Desc = () => {
+    return (
+        <>
+            <Container className='border p-3'>
+                <Row>
+                    <Col md={12}>
+                        <div className="job-desc-header">
+                            <div className="job-desc-title">
+                                <h2>Job Title
+                                </h2>
+                            </div>
+                            <div className="job-desc-company-name-address mb-3">
+                                <span className='company-name'>Company Name
+                                </span> | <span className='company-address'>
+                                    &nbsp;
+                                    Company Address</span>
+                            </div>
+                            <div className="apply-now-btn">
+                                <Button variant="primary">Apply Now</Button>
+                            </div>
+                        </div>
+
+                        <hr />
+
+                        <div className="job-desc-content">
+                            <div className="job-location">
+                                <h4>Location</h4>
+                                <p>Mumbai</p>
+                            </div>
+
+                            <hr />
+
+                            <div className="job-desc-detail">
+                            <h4>Full job description
+                            </h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ratione at dolores nisi sequi dolor, impedit doloremque perspiciatis harum nostrum nam quas a quia ut error maxime id? Rerum, non.</p>
+                            </div>
+                        </div>
+
+                        
+                    </Col>
+                </Row>
+            </Container>
+        </>
+    )
+}
+
+export default Job_Desc
