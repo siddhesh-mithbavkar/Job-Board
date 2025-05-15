@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 1
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 2
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Contract",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 3
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Full time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 4
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 5
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 6
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 7
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Full time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 8
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Part time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 9
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 10
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 11
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 12
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Part time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 13
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Internship",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 14
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 15
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 16
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 17
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Internship",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 18
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Contract",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 19
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 20
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 21
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 22
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Contract",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 23
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Full time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 24
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 25
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 26
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 27
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Full time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 28
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Part time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 29
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 30
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 31
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 32
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Part time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 33
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Internship",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 34
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 35
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 36
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 37
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Internship",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 38
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Contract",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 39
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 40
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 41
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 42
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Contract",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 43
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Full time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 44
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 45
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 46
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 47
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Full time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 48
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Part time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 49
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 50
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 51
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 52
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Part time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 53
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Internship",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 54
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 55
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 56
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 57
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Internship",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 58
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Contract",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 59
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 60
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 61
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 62
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Contract",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 63
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Full time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 64
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 65
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 66
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 67
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Full time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 68
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Part time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 69
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 70
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 71
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 72
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Part time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 73
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Internship",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 74
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 75
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 76
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 77
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Internship",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 78
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Contract",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 79
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 80
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 81
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 82
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Contract",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 83
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Full time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 84
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 85
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 86
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 87
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Full time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 88
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Part time",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 89
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Internship",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 90
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Delhi",
+    "address": "Saket",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 91
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Bangalore",
+    "address": "Koramangala",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 92
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Hyderabad",
+    "address": "HITEC City",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Part time",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 93
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Pune",
+    "address": "Baner",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Internship",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 94
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Chennai",
+    "address": "Velachery",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Contract",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 95
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Innovators",
+    "location": "Kolkata",
+    "address": "Salt Lake",
+    "salary": "₹5,00,000 - ₹7,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Develop and maintain web applications using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure responsive design across various devices."
+    ],
+    "id": 96
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design World",
+    "location": "Ahmedabad",
+    "address": "Navrangpura",
+    "salary": "₹2,50,000 - ₹4,00,000 a year",
+    "type": "Part time",
+    "description": [
+      "Design user interfaces for mobile and web applications.",
+      "Conduct user research and create wireframes.",
+      "Collaborate with frontend developers to implement designs.",
+      "Ensure consistent branding across all platforms."
+    ],
+    "id": 97
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "CodeWave Solutions",
+    "location": "Jaipur",
+    "address": "Malviya Nagar",
+    "salary": "₹4,00,000 - ₹6,50,000 a year",
+    "type": "Internship",
+    "description": [
+      "Build reusable components using ReactJS.",
+      "Collaborate with backend developers and designers.",
+      "Ensure performance and responsiveness of web applications.",
+      "Work with REST APIs and third-party integrations."
+    ],
+    "id": 98
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "WebCrafters",
+    "location": "Remote",
+    "address": "Online",
+    "salary": "₹10,000 - ₹20,000 a month",
+    "type": "Contract",
+    "description": [
+      "Convert Figma designs to clean, responsive code.",
+      "Optimize code for speed and scalability.",
+      "Use tools like Webpack, Babel, and Git effectively.",
+      "Stay updated with modern JavaScript frameworks."
+    ],
+    "id": 99
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "company": "Pixel Lab",
+    "location": "Mumbai",
+    "address": "Andheri East",
+    "salary": "₹3,00,000 - ₹5,00,000 a year",
+    "type": "Full time",
+    "description": [
+      "Assist in building landing pages and UI components.",
+      "Learn and apply best practices for responsive design.",
+      "Support the senior dev team in debugging and testing.",
+      "Participate in daily standups and code reviews."
+    ],
+    "id": 100
+  }
+]

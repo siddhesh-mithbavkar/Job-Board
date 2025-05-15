@@ -6,22 +6,22 @@ import Button from 'react-bootstrap/Button';
 
 
 
-const Job_Desc = () => {
+const Job_Desc = ({job}) => {
     return (
         <>
-            <Container className='border p-3'>
+            <div className='border p-3 sticky-top'>
                 <Row>
                     <Col md={12}>
                         <div className="job-desc-header">
                             <div className="job-desc-title">
-                                <h2>Job Title
+                                <h2>{job.title}
                                 </h2>
                             </div>
                             <div className="job-desc-company-name-address mb-3">
-                                <span className='company-name'>Company Name
+                                <span className='company-name'>{job.company}
                                 </span> | <span className='company-address'>
                                     &nbsp;
-                                    Company Address</span>
+                                    {job.address}</span>
                             </div>
                             <div className="apply-now-btn">
                                 <Button variant="primary">Apply Now</Button>
@@ -33,7 +33,7 @@ const Job_Desc = () => {
                         <div className="job-desc-content">
                             <div className="job-location">
                                 <h4>Location</h4>
-                                <p>Mumbai</p>
+                                <p>{job.location}</p>
                             </div>
 
                             <hr />
@@ -48,7 +48,7 @@ const Job_Desc = () => {
                         
                     </Col>
                 </Row>
-            </Container>
+            </div>
         </>
     )
 }

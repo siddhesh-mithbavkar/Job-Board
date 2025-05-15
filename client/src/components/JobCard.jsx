@@ -2,25 +2,25 @@ import React from 'react'
 import Card from 'react-bootstrap/Card';
 
 
-const JobCard = () => {
+const JobCard = ({ job, onJobClick }) => {
     return (
         <>
-            <Card>
+            <Card className='mb-4' onClick={onJobClick}>
                 <Card.Body>
-                    <Card.Title className='job-title mb-3'><h4>Job Title</h4></Card.Title>
+                    <Card.Title className='job-title mb-3'><h4>{job.title}</h4></Card.Title>
                     <Card.Subtitle className="text-muted company-name">
-                        <p className='mb-1'>Company name</p>
-                        <p>Company Location</p>
+                        <p className='mb-1'>{job.company}</p>
+                        <p>{job.location}</p>
                         <div className='mb-4'>
-                            <span className='bg-warning px-2 py-1 rounded me-2'>₹3,50,000 - ₹4,00,000 a year</span>
-                            <span className='bg-warning px-2 py-1 rounded'>Full time</span>
+                            <span className='bg-warning px-2 py-1 rounded me-2'>{job.salary}</span>
+                            <span className='bg-warning px-2 py-1 rounded'>{job.type}</span>
                         </div>
                     </Card.Subtitle>
                     <Card.Text>
                         <ul>
-                            <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum rem nesciunt sequi laudantiu.</li>
-                            <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum rem nesciunt sequi laudantium.</li>
-                            <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum rem nesciunt sequi laudantium.</li>
+                            {job.description.map((desc, idx) => {
+                                return <li key={idx} >{desc}</li>
+                            })}
                         </ul>
                     </Card.Text>
                 </Card.Body>

@@ -5,9 +5,18 @@ import TopNavbar from '../components/TopNavbar'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import React from 'react'
+import React, { useState, useEffect } from "react";
+import jobData from '../data/job_listings.json'
 
 const Home = () => {
+
+    const [jobs, setJobs] = useState([]);
+    const [selectedJob, setSelectedJob] = useState(null);
+
+    useEffect(() => {
+        setJobs(jobData)
+    })
+
     return (
         <>
             <TopNavbar />
@@ -16,10 +25,16 @@ const Home = () => {
             <Container>
                 <Row>
                     <Col>
-                        <JobCard />
+                        {jobs.map((job, idx) => {
+                            return <JobCard key={idx} job={job} onJobClick={() => setSelectedJob(job)} />
+                        })}
                     </Col>
                     <Col>
-                        <Job_Desc />
+                        {selectedJob ? (
+                            <Job_Desc job={selectedJob} />
+                        ) : (
+                            <p>Select a job to view details</p>
+                        )}
                     </Col>
                 </Row>
             </Container>
